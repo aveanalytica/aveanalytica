@@ -4,9 +4,8 @@
 
 <br>
 
-[![Сайт](https://img.shields.io/badge/сайт-ave--analytica.tech-6C5CE7?style=for-the-badge&logo=safari&logoColor=white)](https://ave-analytica.tech)
-[![Telegram-бот](https://img.shields.io/badge/бот-@ave__analytica__bot-33255C?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ave_analytica_bot?start=github_profile)
-[![Канал](https://img.shields.io/badge/канал-@ave__analytica__channel-8B7CF6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ave_analytica_channel)
+[![Сайт школы](https://img.shields.io/badge/сайт-ave--analytica.tech-6C5CE7?style=for-the-badge)](https://ave-analytica.tech)
+[![Курс CLI-агенты](https://img.shields.io/badge/курс-cli.ave--analytica.tech-33255C?style=for-the-badge)](https://cli.ave-analytica.tech)
 
 **Онлайн-школа для тех, кто начинает с нуля, уже работает с данными или связывает бизнес и IT.**
 Пять отдельных курсов — выбираете конкретный навык и сразу идёте в практику.
@@ -25,8 +24,7 @@
 | 🧩 | **Бизнес-аналитик** | специалистам между бизнесом и IT | требования, AS-IS / TO-BE, BPMN, User Stories и Agile | 1 месяц · 2 модуля |
 | 🤖 | **AI-агенты в аналитике** | тем, кто работает с данными | CLI-агенты, MCP, агенты в SQL/Python/отчётности, мультиагентный мини-проект | 2 недели · 3 модуля |
 
-> 🟢 Сейчас открыт набор на **«AI-агенты в аналитике»** — программа и запись на [cli.ave-analytica.tech](https://cli.ave-analytica.tech).
-> По остальным направлениям — лист ожидания в [боте](https://t.me/ave_analytica_bot?start=github_waitlist).
+> 🟢 Сейчас открыт набор на **«AI-агенты в аналитике»** — программа на [cli.ave-analytica.tech](https://cli.ave-analytica.tech).
 
 ## 🎓 Как мы учим
 
@@ -49,25 +47,12 @@ ave_school=# SELECT direction, status FROM courses ORDER BY audience;
 (5 rows)
 ```
 
-## 🛠 Чем занимаемся под капотом
-
-Мы сами делаем аналитику, автоматизацию и инженерную часть школы: кабинеты студентов на MkDocs, лендинги, серверы приёма заявок и прогресса обучения, Telegram-бот-помощник, учебные практикумы. Публичные учебные репозитории курсов лежат в этой организации.
-
-| Стек школы | |
-|---|---|
-| Курсы | SQL · Python · pandas · Superset · BPMN · Git · CLI-агенты · MCP |
-| Платформа | MkDocs Material · HTML/CSS/JS · Node.js · PostgreSQL · Docker |
-| Автоматизация | Telegram Bot API · AI-агенты в терминале |
-
-## 📬 Связь
+## 🌐 Сайты
 
 | | |
 |---|---|
-| 🤖 Подобрать курс, цена, запись | [@ave_analytica_bot](https://t.me/ave_analytica_bot?start=github_contacts) |
-| 📣 Анонсы и материалы | [@ave_analytica_channel](https://t.me/ave_analytica_channel) |
-| 👤 Вопрос куратору | [@ave_analytica](https://t.me/ave_analytica) |
-| ✉️ Почта | [ave-analytica@ya.ru](mailto:ave-analytica@ya.ru) |
-| 🌐 Сайт | [ave-analytica.tech](https://ave-analytica.tech) |
+| 🏫 Школа | [ave-analytica.tech](https://ave-analytica.tech) |
+| 🤖 Курс «AI-агенты в аналитике» | [cli.ave-analytica.tech](https://cli.ave-analytica.tech) |
 
 <div align="center">
 
